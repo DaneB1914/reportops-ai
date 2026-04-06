@@ -5,6 +5,9 @@ nuclei-templates/
 *.log
 *.csv
 
+# Secrets
+.env
+
 # Python
 __pycache__/
 *.pyc
@@ -13,5 +16,25 @@ __pycache__/
 venv/
 env/
 
+# Environment variables
+.env
+
+# Output files (generated reports)
+output/
+
+# Logs / data
+*.log
+*.csv
+*.xml
+*.json
+
 # OS
 .DS_Store
+
+
+
+
+
+
+
+
