@@ -9,9 +9,9 @@ AI-powered penetration testing report generator that converts structured vulnera
 - Outputs Markdown, HTML, and PDF reports
 
 ## 📦 Tech Stack
-* Python
-* LLM Integration (Groq / Gemini)
-* JSON-based data pipeline
+- Python
+- LLM Integration (Groq / Gemini)
+- JSON-based data pipeline
 
 ## 🛠️ Usage
 
@@ -43,10 +43,10 @@ This tool is intended for educational and professional penetration testing use o
 
 ## 📌 Roadmap
 
-* CVSS scoring implementation
-* PDF export
-* Web interface
-* Automated scanning integration
+- [ ] Full CVSS v3.1 calculation engine
+- [ ] Web dashboard
+- [ ] Multi-client report generation
+- [ ] Integration with scanning tools
 
 ---
 
